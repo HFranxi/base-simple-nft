@@ -1,1 +1,3 @@
-# base-simple-nft
+# Base Simple NFT
+
+Basic NFT minting contract built for Base ecosystem.
